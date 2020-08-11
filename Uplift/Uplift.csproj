@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>aspnet-Uplift-944D7AD1-93A1-428C-9C38-B65E3A6C80F5</UserSecretsId>
+    <IsPackable>true</IsPackable>
   </PropertyGroup>
 
   <ItemGroup>
